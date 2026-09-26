@@ -1,8 +1,8 @@
 import type { Service, ServiceId } from "../types"
 
 export const BRAND = {
-  name: "NOMBRE",
-  tagline: "SLOGAN",
+  name: "Peluquería",
+  tagline: "Tu estilo, tu turno",
   type: "Peluquería",
   zone: "Barrio de ejemplo",
   hoursLabel: "Martes a sábados · 9:00 a 19:00 hs",
